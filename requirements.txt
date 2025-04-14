@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+joblib
+streamlit
+pydantic==1.10.13
